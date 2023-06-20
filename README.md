@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://jobless-pop.surge.sh](http://jobless-pop.surge.sh) to view it in your browser.
+Additionally, I used netlify for deployment as well which can be viewed here: [https://polite-queijadas-8bf110.netlify.app/](https://polite-queijadas-8bf110.netlify.app/)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
